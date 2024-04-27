@@ -7,3 +7,5 @@ by school size, school budgets, and school types as well as a few other factors.
 
 
 The code for this assgnment can be found in the jupyter notebook file titled PyCitySchool_Mod4.ipynb with the resources used in the csv files underneath. 
+
+The written analysis portion can be found in the linked word doc as well as a txt file, for the txt file it displays as three lines unless the txt file is view raw, then it will print the proper formating 
